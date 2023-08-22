@@ -33,6 +33,7 @@ When you're new to the city, one of the best things you can do is to get plugged
 - SF A capella Drop In Nights
 - [Noisebridge](https://www.noisebridge.net/wiki/Noisebridge) - Noisebridge is a creative technology community for excellent, do-ocratic, consensus-based collaboration
 - [The Commons](https://www.thesfcommons.com/) - A community and 3rd space for inner-outer curiosity, co-created play & collective flourishing in SF
+- [The Board Walks](https://www.theboardwalks.com) - The Board Walks bring curious people together to walk 5 miles and have energizing conversations – every Saturday at 8 AM. ✨
 
 ### Guides
 
