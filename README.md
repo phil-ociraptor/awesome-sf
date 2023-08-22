@@ -59,7 +59,19 @@ A fairly picky list of good food.
 
 ### Coffee and Tea
 
-TODO(kroeger/kelsey)
+Here is a list of great cafes in SF organized by neighborhood.
+
+- Russian Hill
+  - [Saint Frank](https://goo.gl/maps/zXfTzSxyAy5F2zzU6)
+  - [Cafe Reveille](https://goo.gl/maps/A71SsXjqwFc29JtQ6)
+- Haight Ashbury/Cole Valley
+  - [Sightglass](https://goo.gl/maps/Y9rzXEri1o2F7ZWX9)
+- Sunset
+  - [Andytown](https://goo.gl/maps/QAoxPg8HhoMJvan39)
+- Richmond
+  - [Breadbelly](https://goo.gl/maps/apUjMEXvLcPKyQVt6)
+- Marina/Fort Mason
+  - [Equator](https://goo.gl/maps/MyiAeLse2naJ2nJX6)
 
 ### Drink
 
