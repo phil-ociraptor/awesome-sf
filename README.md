@@ -18,6 +18,7 @@
 
 - [Organizations](#organizations)
 - [Guides](#guides)
+- [Resources](#resources)
 - [Neighborhoods](#neighborhoods)
 - [Food](#food)
 - [Coffee and Tea](#coffee-and-tea)
@@ -38,6 +39,14 @@ When you're new to the city, one of the best things you can do is to get plugged
 Being in a city is as much a list of things to do and places to go to as it is a mindset and way of life. Here are some articles that help you get into a SF State of Mind.
 
 - [How to enjoy SF](http://zhayitong.com/2023/06/17/sf1.html) by [Yitong Zhang](https://twitter.com/zhayitong)
+
+### Resources
+
+There some great resources compile content about things to do in SF. Here is a compilation of them:
+
+- [7x7](https://www.7x7.com/)
+- [Funcheap SF](https://sf.funcheap.com/)
+- [Weekly SF Tech Events](https://michellesnotion.notion.site/michellesnotion/SF-Community-Guide-e7d74969a4af434ca578196370f826ef) by [Michelle Fang](https://twitter.com/michelleefang)
 
 ### Neighborhoods
 
