@@ -28,8 +28,9 @@
 
 When you're new to the city, one of the best things you can do is to get plugged into organizations and subcommunities. Here's a growing list of active communities and meetups
 
-- [Midnight Runners](https://www.midnightrunners.com/cities/san-francisco)
-- [Salsa and Bachata Time](https://lu.ma/878t5dq1)
+- [Midnight Runners](https://linktr.ee/midnightrunnerssf) - a volunteer-led run crew. Wednesdays at 6:30PM (not midnight)
+- [November Project](https://november-project.com/san-francisco-ca/) - a FREE fitness movement. Wednesdays (Dolores Park) and Fridays (rotating locations) at 6:29 AM
+- [Salsa and Bachata Time](https://lu.ma/878t5dq1) - building community via a free Salsa/Bachata dance class
 - [Acahub](https://www.acahub.co/) Hub for A Cappella in the San Francisco Bay Area - events for all levels. Hosts Drop-in A Cappella events for both beginners and those looking to meet other singers
 - [Noisebridge](https://www.noisebridge.net/wiki/Noisebridge) - Noisebridge is a creative technology community for excellent, do-ocratic, consensus-based collaboration
 - [The Commons](https://www.thesfcommons.com/) - A community and 3rd space for inner-outer curiosity, co-created play & collective flourishing in SF
