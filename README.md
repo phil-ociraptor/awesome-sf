@@ -36,6 +36,7 @@ When you're new to the city, one of the best things you can do is to get plugged
 - [The Board Walks](https://www.theboardwalks.com) - The Board Walks bring curious people together to walk 5 miles and have energizing conversations – every Saturday at 8 AM. ✨
 - [San Francisco Pickleball Community](https://pickleballsf.com/) - A friendly and diverse community of players who primarily play at the Park and Recreation venues in San Francisco
 - [Friday Night Skate](https://www.facebook.com/groups/196455884283726) - Group-led 12 mile loop through the city on rollerblades and rollerskates (all other wheels welcome) every Friday night since 1989. There's also a Tuesday night variant.
+- [72 circle](https://72circle.com/) - A way for people to meet and community leaders to be empowered. 72’s ultimate goal is to act as a connector. Sign up to get connected
 
 ### Guides
 
