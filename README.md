@@ -39,6 +39,12 @@ When you're new to the city, one of the best things you can do is to get plugged
 - [Friday Night Skate](https://www.facebook.com/groups/196455884283726) - Group-led 12 mile loop through the city on rollerblades and rollerskates (all other wheels welcome) every Friday night since 1989. There's also a Tuesday night variant.
 - [72 circle](https://72circle.com/) - A way for people to meet and community leaders to be empowered. 72’s ultimate goal is to act as a connector. Sign up to get connected
 
+There are a number of organizations that operate more like businesses, but can still be valuable sources for connection. Think of these as a more community driven wework:
+
+- [Groundfloor](https://groundfloorclub.com/) - Groundfloor exists as a cure to social isolation. A place to cowork, work out, and find social events
+- [House of Web3](https://edgeandnode.com/thehouseofweb3/) - co-working and event space for web3 pioneers and those who contribute knowledge, education, and code to the community at large
+- [The Expensify Lounge](https://use.expensify.com/lounge) - Picture a high-end airport lounge mixed with a vibrant co-working space. Sprinkle in some community building for like-minded, get-shit-done individuals and you’ve got the Expensify Lounge! Free for Expensify customers
+
 ### Guides
 
 Being in a city is as much a list of things to do and places to go to as it is a mindset and way of life. Here are some articles that help you get into a SF State of Mind.
