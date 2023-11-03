@@ -44,8 +44,8 @@ When you're new to the city, one of the best things you can do is to get plugged
 - [Black Bird Bookstore](https://blackbirdsf.com/) - a peaceful, welcoming, and beautiful community space for books and people to commingle. Frequent (events)[https://blackbirdsf.com/blogs/upcoming-events]
 - [Garden for the Environment](https://www.gardenfortheenvironment.org/) - a 1/2 acre education and demonstration garden in the Inner Sunset. We teach people about the environment - soil, water, plants, creatures, and climate
 - [San Francisco Zen Center](https://www.sfzc.org/) - offers daily meditation, classes, workshops and retreats, Dharma talks and guest speaker events, and a wide array of Dharma teachings. A place to meet, share and connect, to meditate and practice together
-- [Jewish Community Center][https://www.jccsf.org/] - In a changing world, the JCCSF brings people together to explore, connect and flourish
-- [Rueda Con Ritmo][https://www.ruedaconritmo.com] - a community of Cuban Salsa dancers offering classes, events, and performances throughout the Bay Area and beyond
+- [Jewish Community Center](https://www.jccsf.org/) - In a changing world, the JCCSF brings people together to explore, connect and flourish
+- [Rueda Con Ritmo](https://www.ruedaconritmo.com) - a community of Cuban Salsa dancers offering classes, events, and performances throughout the Bay Area and beyond
 
 There are a number of organizations that operate more like businesses, but can still be valuable sources for connection. Think of these as a more community driven wework:
 
