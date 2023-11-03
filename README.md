@@ -30,7 +30,6 @@ When you're new to the city, one of the best things you can do is to get plugged
 
 - [Midnight Runners](https://linktr.ee/midnightrunnerssf) - a volunteer-led run crew. Wednesdays at 6:30PM (not midnight)
 - [November Project](https://november-project.com/san-francisco-ca/) - a FREE fitness movement. Wednesdays (Dolores Park) and Fridays (rotating locations) at 6:29 AM
-- [Salsa and Bachata Time](https://lu.ma/878t5dq1) - building community via a free Salsa/Bachata dance class
 - [Acahub](https://www.acahub.co/) Hub for A Cappella in the San Francisco Bay Area - events for all levels. Hosts Drop-in A Cappella events for both beginners and those looking to meet other singers
 - [Noisebridge](https://www.noisebridge.net/wiki/Noisebridge) - Noisebridge is a creative technology community for excellent, do-ocratic, consensus-based collaboration
 - [The Commons](https://www.thesfcommons.com/) - A community and 3rd space for inner-outer curiosity, co-created play & collective flourishing in SF
@@ -38,12 +37,20 @@ When you're new to the city, one of the best things you can do is to get plugged
 - [San Francisco Pickleball Community](https://pickleballsf.com/) - A friendly and diverse community of players who primarily play at the Park and Recreation venues in San Francisco
 - [Friday Night Skate](https://www.facebook.com/groups/196455884283726) - Group-led 12 mile loop through the city on rollerblades and rollerskates (all other wheels welcome) every Friday night since 1989. There's also a Tuesday night variant.
 - [72 circle](https://72circle.com/) - A way for people to meet and community leaders to be empowered. 72’s ultimate goal is to act as a connector. Sign up to get connected
+- [Manny's](https://welcometomannys.com/) - a community focused meeting and learning place in the heart of San Francisco. civic events and gathering space restaurant / political bookshop
+- [The Center](https://www.thecentersf.com/) - a community, dedicated to personal, spiritual, and social transformation through tea, movement, healing arts, service, and community building.
+- [The Game Parlour](https://www.thegameparlour.com/) - to connect people through two things we know well: food and tabletop games. $7 gaming fee to stay and play for as long you want
+- [Mechanic's Institute](https://www.milibrary.org/) - a center for intellectual and cultural advancemen, offering a vibrant library, chess, and a calendar of cultural events, programs, and classes
+- [Black Bird Bookstore](https://blackbirdsf.com/) - a peaceful, welcoming, and beautiful community space for books and people to commingle. Frequent (events)[https://blackbirdsf.com/blogs/upcoming-events]
+- [Garden for the Environment](https://www.gardenfortheenvironment.org/) - a 1/2 acre education and demonstration garden in the Inner Sunset. We teach people about the environment - soil, water, plants, creatures, and climate
+- [San Francisco Zen Center](https://www.sfzc.org/) - offers daily meditation, classes, workshops and retreats, Dharma talks and guest speaker events, and a wide array of Dharma teachings. A place to meet, share and connect, to meditate and practice together
+- [Jewish Community Center][https://www.jccsf.org/] - In a changing world, the JCCSF brings people together to explore, connect and flourish
+- [Rueda Con Ritmo][https://www.ruedaconritmo.com] - a community of Cuban Salsa dancers offering classes, events, and performances throughout the Bay Area and beyond
 
 There are a number of organizations that operate more like businesses, but can still be valuable sources for connection. Think of these as a more community driven wework:
 
 - [Groundfloor](https://groundfloorclub.com/) - Groundfloor exists as a cure to social isolation. A place to cowork, work out, and find social events
 - [House of Web3](https://edgeandnode.com/thehouseofweb3/) - co-working and event space for web3 pioneers and those who contribute knowledge, education, and code to the community at large
-- [The Expensify Lounge](https://use.expensify.com/lounge) - Picture a high-end airport lounge mixed with a vibrant co-working space. Sprinkle in some community building for like-minded, get-shit-done individuals and you’ve got the Expensify Lounge! Free for Expensify customers
 
 ### Guides
 
