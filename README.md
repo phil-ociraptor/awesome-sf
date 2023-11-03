@@ -40,7 +40,7 @@ When you're new to the city, one of the best things you can do is to get plugged
 - [Manny's](https://welcometomannys.com/) - a community focused meeting and learning place in the heart of San Francisco. civic events and gathering space restaurant / political bookshop
 - [The Center](https://www.thecentersf.com/) - a community, dedicated to personal, spiritual, and social transformation through tea, movement, healing arts, service, and community building.
 - [The Game Parlour](https://www.thegameparlour.com/) - to connect people through two things we know well: food and tabletop games. $7 gaming fee to stay and play for as long you want
-- [Mechanic's Institute](https://www.milibrary.org/) - a center for intellectual and cultural advancemen, offering a vibrant library, chess, and a calendar of cultural events, programs, and classes
+- [Mechanic's Institute](https://www.milibrary.org/) - a center for intellectual and cultural advancement, offering a vibrant library, chess, and a calendar of cultural events, programs, and classes
 - [Black Bird Bookstore](https://blackbirdsf.com/) - a peaceful, welcoming, and beautiful community space for books and people to commingle. Frequent [events](https://blackbirdsf.com/blogs/upcoming-events)
 - [Garden for the Environment](https://www.gardenfortheenvironment.org/) - a 1/2 acre education and demonstration garden in the Inner Sunset. We teach people about the environment - soil, water, plants, creatures, and climate
 - [San Francisco Zen Center](https://www.sfzc.org/) - offers daily meditation, classes, workshops and retreats, Dharma talks and guest speaker events, and a wide array of Dharma teachings. A place to meet, share and connect, to meditate and practice together
