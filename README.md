@@ -16,7 +16,6 @@
 
 ### Contents
 
-- [Contents](#contents)
 - [Organizations](#organizations)
 - [Guides](#guides)
 - [Resources](#resources)
