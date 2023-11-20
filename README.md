@@ -101,7 +101,7 @@ Here is a list of great cafes in SF organized by neighborhood.
 - Marina/Fort Mason
   - [Equator](https://goo.gl/maps/MyiAeLse2naJ2nJX6)
 - Chinatown
-  - [The Coffee Movement](https://maps.app.goo.gl/f27mwB7VMpoV4RY96)
+  - [The Coffee Movement](https://goo.gl/maps/f27mwB7VMpoV4RY96)
 
 ### Drink
 
