@@ -16,6 +16,7 @@
 
 ### Contents
 
+- [Contents](#contents)
 - [Organizations](#organizations)
 - [Guides](#guides)
 - [Resources](#resources)
@@ -89,17 +90,21 @@ A fairly picky list of good food.
 
 Here is a list of great cafes in SF organized by neighborhood.
 
-- Russian Hill
-  - [Saint Frank](https://goo.gl/maps/zXfTzSxyAy5F2zzU6)
-  - [Cafe Reveille](https://goo.gl/maps/A71SsXjqwFc29JtQ6)
+- Chinatown
+  - [The Coffee Movement](https://maps.app.goo.gl/CEusyx9qeusRhxJAA)
 - Haight Ashbury/Cole Valley
+  - [Flywheel](https://maps.app.goo.gl/5q8RyDZXQwuSxoLP9)
   - [Sightglass](https://goo.gl/maps/Y9rzXEri1o2F7ZWX9)
-- Sunset
-  - [Andytown](https://goo.gl/maps/QAoxPg8HhoMJvan39)
-- Richmond
-  - [Breadbelly](https://goo.gl/maps/apUjMEXvLcPKyQVt6)
 - Marina/Fort Mason
   - [Equator](https://goo.gl/maps/MyiAeLse2naJ2nJX6)
+- Richmond
+  - [Breadbelly](https://goo.gl/maps/apUjMEXvLcPKyQVt6)
+  - [Home](https://maps.app.goo.gl/RACQMAdSaSqPFKKi6)
+- Russian Hill
+  - [Cafe Reveille](https://goo.gl/maps/A71SsXjqwFc29JtQ6)
+  - [Saint Frank](https://goo.gl/maps/zXfTzSxyAy5F2zzU6)
+- Sunset
+  - [Andytown](https://goo.gl/maps/QAoxPg8HhoMJvan39)
 
 ### Drink
 
