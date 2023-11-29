@@ -16,6 +16,7 @@
 
 ### Contents
 
+- [Contents](#contents)
 - [Organizations](#organizations)
 - [Guides](#guides)
 - [Resources](#resources)
@@ -107,4 +108,18 @@ Here is a list of great cafes in SF organized by neighborhood.
 
 ### Drink
 
-TODO
+Here is a list of great bars in SF organized by neighborhood.
+
+- Haight Ashbury/Cole Valley
+  - [Alembic](https://maps.app.goo.gl/frwB6ftAQhoakRbY9): beer and cocktails
+  - [Horsefeather](https://maps.app.goo.gl/ZqgmntTdiGjjga2n9)
+- Marina/Fort Mason
+  - [Radhaus](https://maps.app.goo.gl/D2j2UycRBKbUJZJG6): a German beer hall with a beautiful location on the bay
+- Mission
+  - [Trick Dog](https://maps.app.goo.gl/ZMYS3mdUNYcRAC8W6): cocktail bar
+- North Beach
+  - [Vesuvio](https://maps.app.goo.gl/DHvLv2hTxKgbD2DL9): a historic Beat generation bar
+- Russian Hill
+  - [Shanghai Kelly's](https://maps.app.goo.gl/VKVgXnGpCrNXUNSa7): a divey sports bar
+- Soma
+  - [Local Edition](https://maps.app.goo.gl/ubQAXWd4nA5d4Ufk9): vintage bougie cocktail bar
