@@ -68,6 +68,8 @@ There are a number of organizations that operate more like businesses, but can s
 Being in a city is as much a list of things to do and places to go to as it is a mindset and way of life. Here are some articles that help you get into a SF State of Mind.
 
 - [How to enjoy SF](http://zhayitong.com/2023/06/17/sf.html) by [Yitong Zhang](https://twitter.com/zhayitong)
+- [San Francisco Travel Guide](https://www.zachklein.com/sf/) by [Zach Klein](https://x.com/zachklein)
+- [Starter Guide to SF for Founders](https://www.startertosf.guide/michellesnotion/Starter-Guide-to-SF-for-Founders-ad0e4f3702b04d339599638ef1afb416) by [Michelle Fang](https://twitter.com/michelleefang)
 
 ### Resources
 
