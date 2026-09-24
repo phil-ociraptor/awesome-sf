@@ -78,6 +78,7 @@ There some great resources compile content about things to do in SF. Here is a c
 - [7x7](https://www.7x7.com/)
 - [Funcheap SF](https://sf.funcheap.com/)
 - [Weekly SF Tech Events](https://michellesnotion.notion.site/michellesnotion/SF-Community-Guide-e7d74969a4af434ca578196370f826ef) by [Michelle Fang](https://twitter.com/michelleefang)
+- [SF Tech Week 2026](https://github.com/hamedrabah/sf-tech-week-2026) - Independent guide to October 5–11 events, with day and topic browsing, calendar subscriptions, and public data downloads.
 
 ### Neighborhoods
 
