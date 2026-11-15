@@ -49,6 +49,7 @@ When you're new to the city, one of the best things you can do is to get plugged
 - [Church of 8 Wheels](http://www.churchof8wheels.com/) roller skate in a church also hosts [ecstatic dance events](https://ecstaticdance.org/dance/san-francisco-ecstatic-dance/)
  - [Casting Club](https://www.ggacc.org/) largest casting club (fly fishing) in the world. Offers free lessons and food the second Saturday of every month
 - [Awesome Orchestra](https://awesomeorchestra.org/) community orchestra hosts montly concerts, and quite accessible
+- [No Stairs Please — San Francisco & CA Venues](https://nostairsplease.com/venues/ca) searchable directory of under-400-capacity live music venues across California and San Francisco
 - [Bissap Baobab](https://www.bissapbaobab.com/events) West African restaurant hosts weekly Spanish meetups / salsa lessons every Friday
 - [Days Like This](https://www.instagram.com/dayslikethis.oakland/) free dance party every Friday in Oakland (not technically SF, but great to check out)
 - Cycling - San Francisco and the Marin area have amazing cycling. There are also amazing cycling communities in the city that organize rides, and provide a great way to meet people. There are other shops and groups that organize rides, but this is a good jumping off point
